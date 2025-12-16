@@ -7,7 +7,7 @@ A faithful recreation of the classic **Space Invaders** arcade game for the orig
 ![API](https://img.shields.io/badge/API-Direct3D%208-orange)
 
 <div align=center>
-  <img src=https://github.com/Darkone83/invaderz/blob/main/images/title.png" width=400><img src="https://github.com/Darkone83/invaderz/blob/main/images/demo.png" width=400>
+  <img src="https://github.com/Darkone83/invaderz/blob/main/images/title.png" width=400><img src="https://github.com/Darkone83/invaderz/blob/main/images/demo.png" width=400>
 </div>
 
 ---
