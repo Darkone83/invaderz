@@ -58,7 +58,6 @@ A faithful recreation of the classic **Space Invaders** arcade game for the orig
 | Move Right | D-Pad Right / Left Stick |
 | Fire | A Button |
 | Start Game | START Button |
-| Pause / Quit to Menu | START Button (during game) |
 | Exit to Dashboard | BACK Button (title screen only) |
 | Secret Theme Toggle | Konami Code (↑↑↓↓←→←→BA) |
 
