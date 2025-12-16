@@ -212,7 +212,7 @@ invaderz/
 
 ### Requirements
 - **Xbox Development Kit (XDK)** - Original Xbox SDK
-- **Visual Studio** - With Xbox development tools
+- **Visual Studio** - With RDXK development tools
 - **Xbox Debug Kit** - For deployment and testing
 
 ### Build Steps
